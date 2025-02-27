@@ -17,7 +17,7 @@
 1. Állítsd be az oldal hátterét greenyellow-ra!
 2. a fejléc elemnek állíts be 5px, folytonos fekete szegélyt!
 3. A fejlécben a szöveget igazítsd középre!
-4. Az linkek ne legyenek aláhúzva!
+4. A linkek ne legyenek aláhúzva!
 5. A linkekre állíts 5px belső margót!
 6. Ha  a linkek fölé viszem az egeret, a háttérszín legyen greenyellow!
 7. A képek szélességét állítsd akkorára, hoyg mindig kitöltsék a rendelkezésre álló tároló méretét!
